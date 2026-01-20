@@ -197,10 +197,6 @@ Contributions are welcome. Please ensure that:
 - New features include appropriate documentation
 - Tests are updated accordingly
 
-## License
-
-[Add your license information here]
-
 ## Acknowledgments
 
 This project uses Zemberek, a Turkish natural language processing library, for morphological analysis. More information about Zemberek can be found at the official repository.
