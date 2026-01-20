@@ -1,0 +1,3 @@
+"""
+Turkish Sentiment Analysis Project
+"""
